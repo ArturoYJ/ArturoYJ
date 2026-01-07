@@ -64,7 +64,7 @@ I’m especially interested in:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoYJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arturo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoYJ&show_icons=true&theme=tokyonight&hide_border=true" alt="Arturo's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoYJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
